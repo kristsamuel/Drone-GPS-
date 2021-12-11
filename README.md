@@ -14,6 +14,6 @@ Need compute the GPS coordinates of the detected object from the drone.As an inp
 -- https://ncr.mae.ufl.edu/papers/TAES10.pdf --
 -- https://gssc.esa.int/navipedia/index.php/Transformations_between_ECEF_and_ENU_coordinates --
 -- https://w3.onera.fr/h2020_vision/deliverables --
-
-
-
+-- https://en.wikipedia.org/wiki/Euler_angles --
+-- https://www.mathworks.com/discovery/euler-angles.html --
+-- https://mathworld.wolfram.com/EulerAngles.html --
